@@ -32,5 +32,3 @@
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
-
-✨ _"Scrivere codice è come raccontare una storia al computer."_ ✨
