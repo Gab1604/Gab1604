@@ -18,16 +18,10 @@
 
 ---
 
-## 📊 Le mie statistiche GitHub
-![Gab1604's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gab1604&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gab1604&layout=compact&theme=radical)
-
----
-
 ## 📫 Come contattarmi
 - 📧 Email: gabbocroc@gmail.com   
 
 ---
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
